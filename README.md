@@ -1,6 +1,3 @@
-# test-repo
-For training only
-
 
 # Getting and Cleaning Data Course Project
 
